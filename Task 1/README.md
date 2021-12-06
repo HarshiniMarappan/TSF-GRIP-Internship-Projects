@@ -2,10 +2,17 @@
 
 To predict the optimum number of clusters for the data set and represent it visually
 
-**Dataset used :**
+**Dataset used :** [Iris Dataset](https://bit.ly/3kXTdox)
+
+I had used the _**elbow method**_ and _**pairplots**_ for this purpose 
 
 ## Tech stack used
 
 **Programming language :** Python
 
-**ML model :**
+**Libraries :** Pandas , Matplotlib, Seaborn, Scikit learn
+
+
+
+
+
