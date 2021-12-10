@@ -10,9 +10,13 @@
 
 ## Tech stack used
 
+### For exploratory data analysis
+
 **Programming language :** Python
 
 **Libraries :** Pandas , Seaborn, Statistics
+
+### To create Dashboards
 
 **Tools :** MS Excel
 
